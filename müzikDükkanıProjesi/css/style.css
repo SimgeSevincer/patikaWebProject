@@ -1,0 +1,22 @@
+.text-pink{
+    color: rgb(236, 119, 138);
+}
+.text-purple{
+    color:blueviolet
+}
+body{
+    text-align: center;
+}
+.text-brown{
+    color:rgb(148, 109, 26)
+}
+.list-position{
+    list-style-position: inside
+}
+.image{
+    height: 400px;
+    border: 3px;
+}
+div{
+    text-align: left;
+}
